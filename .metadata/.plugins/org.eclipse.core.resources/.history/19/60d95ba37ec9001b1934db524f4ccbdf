@@ -1,0 +1,52 @@
+// TODO: write this class
+
+
+import java.util.*;
+import java.io.*;
+import melody.audio.*;
+
+public class Melody {
+    
+
+	public Melody(File file) throws FileNotFoundException{		
+		
+	}
+		  
+	public void changeTempo(double ratio) {
+	  
+	}
+	
+	public String getArtist() {
+		return null;
+	
+	}
+
+	public String getTitle() {
+		return null;
+	}
+	
+	public double getTotalDuration() {
+		return 0;
+	}
+	
+	public boolean octaveDown() {
+		return false;
+	}
+	
+	public boolean octaveUp() {
+		return false;
+	}
+	
+	public void play() {
+
+	}
+	
+	public void reverse() {
+		
+	}
+	
+	public String toString() {
+		return null;
+	}
+}
+

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HW02
+comment0.text=\n\ Part\ One\ of\ the\ program\ is\ portion\ of\ my\ own\ drawing.\n\ Part\ Two\ of\ the\ \ program\ create\ six\ different\ sizes\ of\ image\ that\ contains\n\ blue\ ,\ white\ and\ yellow\ diagonals\ line.\n\ it\ has\ 3\ methods\ including\ main.\ \n\ \n\ @author\ (Mohamed\ Gas)\n\ @version\ (Graphics\ 04-17-2021)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ partOne()
+comment3.params=
+comment3.target=void\ partTwo()
+comment4.params=x\ y\ w\ l\ xw\ yw\ numOfTiles
+comment4.target=void\ drawRect(int,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=5
